@@ -40,8 +40,44 @@ ul.nav_bar li a:hover {
     color: white;
 }
 
-.homepage_hero_image {
+.homepage_hero_image{
     background-image: url('../images/lovely.png');
+    height: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.menu_hero_image{
+    background-image: url('../images/Menu.png');
+    height: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.contact_hero_image{
+    background-image: url('../images/ContactUs.png');
+    height: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.animontronics_hero_image{
+    background-image: url('../images/Animontronics.png');
+    height: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.terms_and_conditions_hero_image{
+    background-image: url('../images/TermsAndConditions.png');
     height: 50%;
     background-size: cover;
     background-position: center;
