@@ -42,7 +42,7 @@ ul.nav_bar li a:hover {
 
 .homepage_hero_image{
     background-image: url('../images/lovely.png');
-    height: 50%;
+    height: 250px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -51,7 +51,7 @@ ul.nav_bar li a:hover {
 
 .menu_hero_image{
     background-image: url('../images/Menu.png');
-    height: 50%;
+    height: 250px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -60,7 +60,7 @@ ul.nav_bar li a:hover {
 
 .contact_hero_image{
     background-image: url('../images/ContactUs.png');
-    height: 50%;
+    height: 250px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -69,7 +69,7 @@ ul.nav_bar li a:hover {
 
 .animontronics_hero_image{
     background-image: url('../images/Animontronics.png');
-    height: 50%;
+    height: 250px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -78,9 +78,10 @@ ul.nav_bar li a:hover {
 
 .terms_and_conditions_hero_image{
     background-image: url('../images/TermsAndConditions.png');
-    height: 50%;
+    height: 250px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
 }
+
