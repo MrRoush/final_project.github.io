@@ -39,3 +39,12 @@ ul.nav_bar li a:hover {
     background-color: rgb(93, 67, 112);
     color: white;
 }
+
+.homepage_hero_image {
+    background-image: url('../images/lovely.png');
+    height: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
